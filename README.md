@@ -16,6 +16,6 @@
 
 *真的随便*
 
-[下一页](https://taoye20.github.io/goodness.github.io/为什么要开始自己的博客.md)
+[下一页](https://taoye20.github.io/goodness.github.io/为什么要开始自己的博客/)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
